@@ -9,3 +9,6 @@ What question will our team investigate?
 
 ## Research question
 What is the research question?
+
+## Methods
+Add methods section
